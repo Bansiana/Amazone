@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amazone/static/css/main.67a04235.css",
+    "main.js": "/Amazone/static/js/main.54fe1d20.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Amazone/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Amazone/index.html",
+    "main.67a04235.css.map": "/Amazone/static/css/main.67a04235.css.map",
+    "main.54fe1d20.js.map": "/Amazone/static/js/main.54fe1d20.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Amazone/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67a04235.css",
+    "static/js/main.54fe1d20.js"
+  ]
+}
